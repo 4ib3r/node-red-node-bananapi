@@ -12,7 +12,7 @@
   "keywords": [
     "node-red",
     "bananapi",
-    "banana pi",
+    "banana pi"
   ],
   "node-red": {
     "nodes": {
