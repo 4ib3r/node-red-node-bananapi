@@ -4,7 +4,11 @@
   "description": "Node-RED nodes to talk to an bananapi hardware",
   "dependencies": {
   },
-  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4ib3r/node-red-node-bananapi.git"
+  },
+  "license": "MIT",
   "keywords": [
     "node-red",
     "bananapi",
@@ -20,6 +24,10 @@
     "email": "adrian.slawinski@javadevelopers.pl",
     "url": "http://javadevelopers.pl/"
   },
+  "bugs": {
+    "url": "https://github.com/4ib3r/node-red-node-bananapi/issues"
+  },
+  "homepage": "https://github.com/4ib3r/node-red-node-bananapi#readme",
   "_id": "node-red-node-bananapi@0.0.1",
   "scripts": {},
   "_from": "node-red-node-bananapi@*",
