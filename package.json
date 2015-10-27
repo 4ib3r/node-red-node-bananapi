@@ -1,0 +1,32 @@
+{
+  "name": "node-red-node-bananapi",
+  "version": "0.0.1",
+  "description": "Node-RED nodes to talk to an bananapi hardware",
+  "dependencies": {
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "node-red",
+    "bananapi",
+    "banana pi",
+  ],
+  "node-red": {
+    "nodes": {
+      "bananapi": "54-bananapi.js"
+    }
+  },
+  "author": {
+    "name": "Adrian Sławiński",
+    "email": "adrian.slawinski@javadevelopers.pl",
+    "url": "http://javadevelopers.pl/"
+  },
+  "_id": "node-red-node-bananapi@0.0.1",
+  "scripts": {},
+  "_from": "node-red-node-bananapi@*",
+  "maintainers": [
+    {
+      "name": "Adrian Sławiński",
+      "email": "adrian.slawinski@javadevelopers.pl"
+    }
+  ]
+}
