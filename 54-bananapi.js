@@ -69,7 +69,7 @@ module.exports = function (RED) {
                                 var entry = lines[i].split("=");
                                 var key = powerKeysMapping[entry[0]];
                                 if (key == undefined) {
-                                    node.log("key is undefined " + entry[0]);
+                                    //node.log("key is undefined " + entry[0]);
                                     continue;
                                 }
                                 var val = entry[1];
